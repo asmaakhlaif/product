@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.Products{
+    text-align: left;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 30px ;
+    margin-left:200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+h1{
+    margin-bottom: 30px;
+}
+.Product{
+    float:left;
+    width: 20%;
+    text-align: left;
+    border: black 1px solid;
+    margin: 3px;
+
+}
+ 
+    
+
+ 
+
+h2{
+    margin: 5px;
+    font-size: 20px;
+}
+p{
+    margin: 5px; 
+}
+
+img{
+    width: 100%;
+    text-align: center;
+    
+   
+}
+
+.pricenow{
+    color: green;
+    font-size: 20px;
+    margin-left: 5px;
+    
+}
+.pricebefore{
+    color:red;
+    font-size: 12px;
+   
+}
+
+   
+
+.svgone{
+    color: blue;
+    border: 3px;
+    text-align: center;
+}
+.buttonone{
+    color: white;
+    border: blue 1px solid;
+    background-color: blue;
+    width: 75%;
+    text-align: center;
+    padding-top: 4px;
+    float: left;
+    margin: 5px;    
+}
+.buttontwo{
+    
+    border: blue 1px solid;
+    background-color: white;
+    width: 20%;
+    padding: 5px;
+    float: left;
+    border: blue 1px solid;
+    margin-top: 2px;
+    
+   
+}
+
